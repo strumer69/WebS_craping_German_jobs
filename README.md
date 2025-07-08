@@ -76,3 +76,6 @@ If you want to contribute to this project:
 3. Make your changes.
 4. Commit and push (`git push origin feature-branch`).
 5. Create a Pull Request.
+
+* update on 8 Jul 2025: I found that due to the change to the changes to the frontend of the website, my current code cant detect the true targeted tag. therefore the code requires an update specially in this section ( company_name = soup_html.find_all('div' ,class_="infoservice-entry-holder")
+
