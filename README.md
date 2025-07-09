@@ -79,3 +79,5 @@ If you want to contribute to this project:
 
 * update on 8 Jul 2025: I found that due to the change to the changes to the frontend of the website, my current code cant detect the true targeted tag. therefore the code requires an update specially in this section ( company_name = soup_html.find_all('div' ,class_="infoservice-entry-holder")
 
+* update on 9 Jul 2025: the code 2-ausbuildung will find the number of ausbuildung in the main page of the Kleinenzeigen website.
+
